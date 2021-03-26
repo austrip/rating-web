@@ -21,6 +21,7 @@ export default {
 body {
   //background-color: #999;
   background-color: #0071c5;
+  //changed background color
   line-height: 1;
 }
 
